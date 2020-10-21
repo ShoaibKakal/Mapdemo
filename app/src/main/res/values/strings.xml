@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hotelo_needs_location_permissions"><b>Hotelo</b> needs permission to access device location. Please allow the location services to this application</string>
+</resources>
